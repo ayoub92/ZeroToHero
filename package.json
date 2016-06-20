@@ -1,0 +1,31 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "project to be hero",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "angular": "^1.5.7",
+    "bootstrap": "^3.3.6",
+    "openlayers": "^3.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayoub92/ZeroToHero.git"
+  },
+  "keywords": [
+    "psico92."
+  ],
+  "author": "youb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayoub92/ZeroToHero/issues"
+  },
+  "homepage": "https://github.com/ayoub92/ZeroToHero#readme"
+}
